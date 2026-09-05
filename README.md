@@ -23,7 +23,7 @@ Um dos principais conceitos do projeto é a agricultura circular.
 A ideia é criar um ciclo em que os recursos e produtos da própria região sejam movimentados dentro da comunidade, 
 fortalecendo os produtores locais e reduzindo a dependência de grandes cadeias de distribuição.
 
-Produtor → RaizDoCampo → entities.Mercado → Consumidor → Economia local
+Produtor → RaizDoCampo → Mercado → Consumidor → Economia local
 
 Ao aproximar produtores e mercados, o projeto busca fazer com que uma parcela maior do valor gerado pela produção permaneça na própria região.
 
